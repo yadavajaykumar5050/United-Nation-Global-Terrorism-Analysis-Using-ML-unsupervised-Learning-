@@ -48,7 +48,7 @@ Unsupervised learning algorithms were applied to identify hidden severity patter
 
 # Power Bi Dashboard
 
-![image alt]https://github.com/yadavajaykumar5050/United-Nation-Global-Terrorism-Analysis-Using-ML-unsupervised-Learning-/blob/main/Power%20BI%20Dashboard.png?raw=true
+![image alt](https://github.com/yadavajaykumar5050/United-Nation-Global-Terrorism-Analysis-Using-ML-unsupervised-Learning-/blob/main/Power%20BI%20Dashboard.png?raw=true)
 
 
 
