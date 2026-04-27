@@ -49,8 +49,29 @@ Unsupervised learning algorithms were applied to identify hidden severity patter
 # Power Bi Dashboard
 
 ![image alt](https://github.com/yadavajaykumar5050/United-Nation-Global-Terrorism-Analysis-Using-ML-unsupervised-Learning-/blob/main/Power%20BI%20Dashboard.png?raw=true)
+# Key Insights from Global Terrorism Analysis
+# 1. Rising Trend of Attacks Over Time
+Terrorist incidents have increased significantly over the years, with a sharp spike after 2010, indicating growing global instability and evolving threats.
+# 2. High Concentration in Specific Regions
+Terrorism is not evenly distributed. The Middle East & South Asia regions show the highest number of attacks and casualties, making them critical focus areas.
+# 3. Most Affected Countries
+Countries like Iraq, Afghanistan, and Pakistan experience the highest number of attacks and deaths, highlighting regional conflict zones.
+# 4. Civilian Targets are Most Impacted
+The majority of attacks target private citizens and property, followed by security forces, showing that civilians are the most vulnerable group.
+# 5. Dominance of Certain Attack Types
+Bombings and armed assaults are the most commonly used attack methods, indicating preferred tactics by terrorist groups.
+# 6. Casualties Show High Impact Periods
+Total deaths peaked around 2014–2015, showing periods of intense terrorist activity.
+# 7. Known Groups Cause More Damage
+Attacks claimed by known terrorist organizations tend to result in higher casualties compared to unclaimed or unknown group attacks.
+# 8. Major Cities as Hotspots
+Cities like Baghdad show extremely high incident counts, making them major hotspots for terrorist activity.
+# 9. Limited Groups, Large Impact
+A small number of terrorist organizations are responsible for a large share of incidents, indicating concentrated sources of threat.
+# 10. High Success Rate of Attacks
+A large number of attacks are marked as successful, which raises concerns about gaps in prevention and security measures.
 
-
-
+# 📌 Final Insight
+“Terrorism is highly concentrated, increasing over time, and driven by a limited number of groups using consistent attack patterns—highlighting the need for targeted, data-driven security strategies.”
   
 
