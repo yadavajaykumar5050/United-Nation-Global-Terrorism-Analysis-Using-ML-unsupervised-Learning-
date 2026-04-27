@@ -71,6 +71,9 @@ A small number of terrorist organizations are responsible for a large share of i
 # 10. High Success Rate of Attacks
 A large number of attacks are marked as successful, which raises concerns about gaps in prevention and security measures.
 
+# 🚀 Key Achievement
+Developed an end-to-end unsupervised machine learning pipeline and built an interactive Power BI dashboard to analyze terrorism severity patterns and identify high-impact incidents.
+
 # 📌 Final Insight
 “Terrorism is highly concentrated, increasing over time, and driven by a limited number of groups using consistent attack patterns—highlighting the need for targeted, data-driven security strategies.”
   
